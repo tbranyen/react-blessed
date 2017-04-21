@@ -1,7 +1,7 @@
 {
-  "name": "react-blessed",
-  "version": "0.1.8",
-  "description": "A react renderer for blessed.",
+  "name": "react-blessed-you",
+  "version": "0.2.0",
+  "description": "A react renderer for blessed (fork).",
   "main": "./dist/render.js",
   "scripts": {
     "animation": "babel-node ./examples/animation.jsx",
@@ -41,5 +41,8 @@
   "dependencies": {
     "invariant": "^2.2.0",
     "lodash": "^3.x.x"
+  },
+  "peerDependencies": {
+    "react": "0.14.x"
   }
 }

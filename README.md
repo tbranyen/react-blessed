@@ -1,4 +1,4 @@
-# react-blessed
+# react-blessed-you (forked from react-blessed)
 
 A [React](https://facebook.github.io/react/) custom renderer for the [blessed](https://github.com/chjj/blessed) library.
 
@@ -22,12 +22,12 @@ This renderer should currently be considered as experimental, is subject to chan
 
 ## Installation
 
-You can install `react-blessed` through npm:
+You can install `react-blessed-you` through npm:
 
 ```bash
 # Be sure to install react>=0.14.0 & blessed>=0.1.81 before
 npm install react@0.14.0 blessed
-npm install react-blessed
+npm install react-blessed-you
 ```
 
 ## Demo
