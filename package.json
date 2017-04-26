@@ -1,6 +1,6 @@
 {
   "name": "react-blessed-you",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A react renderer for blessed (fork).",
   "main": "./dist/render.js",
   "scripts": {
@@ -39,7 +39,7 @@
   "dependencies": {
     "invariant": "^2.2.0",
     "lodash": "^3.x.x",
-    "react": "^0.14.7",
+    "react": "0.14.7",
     "blessed": "^0.1.81"
   }
 }
